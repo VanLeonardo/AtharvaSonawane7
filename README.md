@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvaSonawane7
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, Blender, JS, HTML, CSS
 - 📫 How to reach me atharva.code123@gmail.conm
 
